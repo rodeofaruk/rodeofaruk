@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodeofaruk my name is Faruk and 18.
+- 👋 Hi, I’m @rodeofaruk my name is Faruk and 20.
 - 👀 I’m interested in coding,photoshop etc.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
